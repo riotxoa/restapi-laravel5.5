@@ -48,7 +48,7 @@ And for Users:
 $ php artisan db:seed --class=UsersTableSeeder
 ```
 
-# Run the aplication
+# Running the aplication
 ```
 $ php artisan serve
 ```
