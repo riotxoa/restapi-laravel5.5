@@ -9,6 +9,13 @@ This first pre-release (`Step1`) supports **basic CRUD** for `articles` database
 - **Update** an Article: `[PUT] http://localhost:8000/api/articles/{id}`
 - **Delete** an Article: `[DELETE] http://localhost:8000/api/articles/{id}`
 
+### For Developers
+
+You can find a full tutorial explaining the code and how to build a Rest API using **Laravel 5.5** in these pages:
+
+- **Basque**: https://www.netireki.com/laravel-rest-api-sortu-step-1/
+- **Spanish**: https://www.netireki.com/crear-rest-api-con-laravel-step-1/
+
 # Installation
 Download `Step1` tagged version from this reposityory using the `git clone https://github.com/riotxoa/restapi-laravel5.5.git` command or downloading and uncompressing the ZIP file.
 
