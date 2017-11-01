@@ -1,8 +1,8 @@
 # restapi-laravel5.5
 
-## `Step1` Release
+Simple Rest API with authentication using **Laravel 5.5**.
 
-Simple Rest API using **Laravel 5.5**.
+## `Step1` Release
 
 This first release (`Step1`) supports **basic CRUD** for `articles` database table (`title`, `body`):
 
