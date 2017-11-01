@@ -14,7 +14,8 @@
         "filp/whoops": "~2.0",
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
-        "phpunit/phpunit": "~6.0"
+        "phpunit/phpunit": "~6.0",
+        "Doctrine/dbal": "^2.5"
     },
     "autoload": {
         "classmap": [
@@ -37,6 +38,9 @@
         }
     },
     "scripts": {
+        "test" : [
+            "vendor/bin/phpunit"
+        ],
         "post-root-package-install": [
             "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
         ],

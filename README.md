@@ -34,8 +34,21 @@ You can find a full tutorial explaining the code and how to build API Authentica
 - **Basque**: https://www.netireki.com/laravel-rest-api-sortu-step-2/
 - **Spanish**: https://www.netireki.com/crear-rest-api-con-laravel-step-2/
 
+## `Step3`  Release
+
+This third release (`Step3`) supports **Unit Tests** with **PHPUnit**:
+
+`$ composer test`
+
+### For Developers
+
+You can find a full tutorial explaining the code and how to test code in **Laravel 5.5** using **PHPUnit**:
+
+- **Basque**: https://www.netireki.com/laravel-rest-api-sortu-step-3/
+- **Spanish**: https://www.netireki.com/crear-rest-api-con-laravel-step-3/
+
 # Installation
-Download `Step1` tagged version from this reposityory using the `git clone https://github.com/riotxoa/restapi-laravel5.5.git` command or downloading and uncompressing the ZIP file.
+Download `Step3` tagged version from this reposityory using the `git clone https://github.com/riotxoa/restapi-laravel5.5.git` command or downloading and uncompressing the ZIP file.
 
 Once cloned or uncompressed, go ahead and install dependencies:
 
