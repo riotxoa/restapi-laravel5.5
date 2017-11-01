@@ -4,7 +4,7 @@
 
 Simple Rest API using **Laravel 5.5**.
 
-This first pre-release (`Step1`) supports **basic CRUD** for `articles` database table (`title`, `body`):
+This first release (`Step1`) supports **basic CRUD** for `articles` database table (`title`, `body`):
 
 - **Create** Article: `[POST] http://localhost:8000/api/articles/`
 - **Retrieve all** Articles: `[GET] http://localhost:8000/api/articles/`
