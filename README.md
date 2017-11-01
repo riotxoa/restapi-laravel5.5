@@ -1,6 +1,6 @@
 # restapi-laravel5.5
 
-## `Step 1` Release
+## `Step1` Release
 
 Simple Rest API using **Laravel 5.5**.
 
@@ -19,7 +19,7 @@ You can find a full tutorial explaining the code and how to build a Rest API usi
 - **Basque**: https://www.netireki.com/laravel-rest-api-sortu-step-1/
 - **Spanish**: https://www.netireki.com/crear-rest-api-con-laravel-step-1/
 
-## `Step 2'  Release
+## `Step2`  Release
 
 This second release (`Step2`) supports **API Authentication** for `Step1` release's operations**:
 
