@@ -1,4 +1,7 @@
-# restapi-laravel5.5 [Step 1]
+# restapi-laravel5.5
+
+## `Step 1` Release
+
 Simple Rest API using **Laravel 5.5**.
 
 This first pre-release (`Step1`) supports **basic CRUD** for `articles` database table (`title`, `body`):
@@ -15,6 +18,21 @@ You can find a full tutorial explaining the code and how to build a Rest API usi
 
 - **Basque**: https://www.netireki.com/laravel-rest-api-sortu-step-1/
 - **Spanish**: https://www.netireki.com/crear-rest-api-con-laravel-step-1/
+
+## `Step 2'  Release
+
+This second release (`Step2`) supports **API Authentication** for `Step1` release's operations**:
+
+- **Register** User: `[POST] http://localhost:8080/api/register`
+- **Login** User: `[POST] http://localhost:8000/api/login`
+- **Logout** User: `[POST] http://localhost:8000/api/logout`
+
+### For Developers
+
+You can find a full tutorial explaining the code and how to build API Authentication using **Laravel 5.5** in these pages:
+
+- **Basque**: https://www.netireki.com/laravel-rest-api-sortu-step-2/
+- **Spanish**: https://www.netireki.com/crear-rest-api-con-laravel-step-2/
 
 # Installation
 Download `Step1` tagged version from this reposityory using the `git clone https://github.com/riotxoa/restapi-laravel5.5.git` command or downloading and uncompressing the ZIP file.
